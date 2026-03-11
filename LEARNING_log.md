@@ -2,6 +2,12 @@
 
 ## 📅 March 2026
 
+#### **Log Entry 028: Retrospective Audit & Certification Backfilling**
+* **Focus:** Historical Data Continuity & Professional Lineage.
+* **Action:** Initiated a systematic audit of historical research outputs and certifications (SQL Fundamentals, Data Analytics, and Academic Milestones) for repository integration.
+* **Researcher's Note:** An 'Allied AI' portfolio must be more than a snapshot; it must be a longitudinal record. I am currently backfilling my Researcher History to bridge my past doctoral accomplishments with my current AI engineering trajectory. This ensures full 'Technical Traceability' for my professional evolution.
+* **Status:** ⏳ Ongoing (Uploading legacy credentials to `/Certifications`).
+
 #### **Log Entry 025: Credential Acquisition & IBM Generative AI Specialization**
 * **Achievement:** Successfully completed the IBM Generative AI Specialization.
 * **Technical Takeaway:** Mastered the architecture of Large Language Models (LLMs), prompt engineering, and the lifecycle of Generative AI applications. 
