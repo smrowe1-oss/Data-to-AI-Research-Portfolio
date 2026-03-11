@@ -8,17 +8,25 @@ In this framework, the **Human (Principal)** provides clinical expertise and eth
 
 ### 1. Task Allocation & Specialization
 * **Claude (Orchestrator):** Complex reasoning and drafting high-fidelity clinical protocols. 
-* **Gemini (Technical Navigator):** Technical scaffolding, code optimization (SQL/Python), and research synthesis.
-* **Sharon, PhD (Principal Investigator):** Strategic vision and final Clinical Audit of all AI outputs.
+* **Gemini (Technical Navigator):** Technical scaffolding, code optimization, and research synthesis.
+* **Sharon, PhD (Principal Investigator):** Strategic vision and final Clinical Audit. Leveraging a background as **Post-Doctoral Research Fellow**, **Midwifery Lecturer and Researcher**, **Honorary Associate Professor** and **Senior Research Fellow** to ensure all outputs meet the highest standards of international academic and clinical excellence.
 
 ### 2. Implementation in Research & Operations
 * **Autonomous Scheduling:** Using agents to prioritize research tasks and balance clinical governance duties.
 * **Systematic Review Scaffolding:** Experimenting with agentic screening of literature via **Covidence** and **Mendeley**.
 
----
-
 ## 🩸 Section 3: High-Stakes Use Case — PPH Clinical Innovation
-I am currently applying this Agentic Framework to my work as the **Lead Investigator** on Postpartum Haemorrhage (PPH) detection and screening.
+I am currently applying this Agentic Framework to my work as the **Lead Investigator** on Postpartum Haemorrhage (PPH) detection. My approach is grounded in my dual identity as a **Clinical and Academic Midwife**, bridging frontline practice with senior leadership.
+
+### Project A: Implementation Trial of Non-Approved Medical Device
+* **Role:** Lead Investigator & Senior Project Manager.
+* **The Agent's Role:** Scaffolding Ethics Applications for non-approved devices.
+* **The Principal's Role:** Utilizing **Senior Research Fellow** expertise to navigate complex regulatory environments and perform Risk-Benefit Analyses.---
+
+### Project A: Implementation Trial of Non-Approved Medical Device
+* **Role:** Lead Investigator & Senior Project Manager.
+* **The Agent's Role:** Scaffolding Ethics Applications for non-approved devices.
+* **The Principal's Role:** Utilizing **Senior Research Fellow** expertise to navigate complex regulatory environments and perform Risk-Benefit Analyses.
 
 ### Project A: Implementation Trial of Non-Approved Medical Device
 * **The Agent's Role:** I utilized AI agents to scaffold initial **Ethics Applications** and **Protocol Developments** for a trial involving a non-approved medical device to detect PPH. 
