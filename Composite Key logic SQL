@@ -1,0 +1,13 @@
+-- Pattern 1: Defining during Table Creation
+CREATE TABLE Order_Details (
+    OrderID INT NOT NULL,
+    ProductID INT NOT NULL,
+    UnitPrice DECIMAL(10,2),
+    Quantity INT,
+    -- Define the Composite Primary Key
+    CONSTRAINT PK_Order_Details PRIMARY KEY (OrderID, ProductID)
+);
+
+-- Pattern 2: Adding to an existing table (ALTER)
+ALTER TABLE Order_Details
+ADD CONSTRAINT PK_Order_Details PRIMARY KEY (OrderID, ProductID);
