@@ -2,6 +2,48 @@
 
 ## 📅 March 2026
 
+#### **Log Entry 036: Transition to Agentic Scheduling & Research Orchestration**
+* **Focus:** Agentic AI Implementation (Personal & Professional).
+* **Action:** Integrated **Claude** and **Gemini** into daily operational workflows to automate scheduling and repository management.
+* **Researcher's Note:** This represents a shift from 'Tool-Usage' to 'System-Orchestration.' By using AI agents to manage the administrative overhead of research, I am freeing up cognitive load for high-level clinical synthesis. This 'lived experience' informs my broader research into how Agentic AI can be safely deployed in primary care settings.
+* **Status:** ✅ Co-collaboration framework established.
+
+* #### **Log Entry 035: Agentic AI Orchestration & Multi-Model Reasoning**
+* **Focus:** Transitioning from Generative to Agentic AI Workflows.
+* **Action:** Integrated **Claude** for designing autonomous research agents. 
+* **Researcher's Note:** Using Claude for 'Agentic AI' allows for multi-step reasoning that mimics clinical decision-making. I am applying this to automate the screening and extraction phases of Systematic Reviews, reducing human error in evidence synthesis.
+
+#### **Log Entry 034: Clinical Ecosystem Integration (EMR & Triage)**
+* **Focus:** Operationalizing AI within existing Health-Tech frameworks.
+* **Action:** Documented proficiency in **EMR** systems and **Triage software**.
+* **Researcher's Note:** The 'last mile' of AI implementation is the most difficult. My experience with frontline clinical software (Triage/EMR) ensures that I can design AI tools that actually fit into a clinician's workflow without increasing 'Cognitive Load.'
+
+#### **Log Entry 033: High-Fidelity Data Pipelines (REDCap & Covidence)**
+* **Focus:** Clinical Data Management (CDM) Mastery.
+* **Action:** Integrated **REDCap**, **Qualtrics**, and **Covidence** into the 'Allied AI' framework.
+* **Researcher's Note:** High-quality AI requires high-quality 'Ground Truth' data. Using REDCap for EDC and Covidence for systematic evidence ensures the datasets I build are audit-ready and compliant with national scientific standards.
+
+#### **Log Entry 032: Cross-Domain Data Synthesis (Altera & Algorithmic Logic)**
+* **Focus:** High-Frequency Data & Risk Management.
+* **Action:** Documented proficiency in **TradingCup**, **Altera**, and **ACY Securities**.
+* **Researcher's Note:** Managing algorithmic trading logic requires the same precision as clinical trials. The ability to pivot between financial data and clinical research demonstrates a high level of 'Computational Fluency.'
+
+#### **Log Entry 031: Qualitative & Mixed-Methods Infrastructure**
+* **Focus:** Unstructured Data Synthesis (Dedoose & Mendeley).
+* **Action:** Integrated **Dedoose** and **Mendeley** expertise.
+* **Researcher's Note:** LLMs are essentially 'Qualitative Engines.' My mastery of Dedoose for thematic analysis allows me to perform 'Semantic Auditing' on AI outputs to ensure they align with qualitative clinical evidence.
+
+#### **Log Entry 030: Electronic Lab Governance & SPSS**
+* **Focus:** Quantitative Accuracy & Lab Standards.
+* **Action:** Integrated **LabArchives** and **SPSS** for research data governance.
+* **Researcher's Note:** Ensuring data integrity from the lab notebook (LabArchives) to the statistical model (SPSS) is fundamental to preventing model drift in AI.
+
+#### **Log Entry 029: Credential Acquisition (IBM Generative AI)**
+* **Achievement:** Successfully completed the IBM Generative AI Specialization.
+* **Researcher's Note:** This certification serves as a technical bridge, validating my ability to apply LLM architectures to my existing doctoral research framework. 
+* **Status:** ✅ Certificate Verified in `/Certifications`.
+* 
+
 #### **Log Entry 028: Retrospective Audit & Certification Backfilling**
 * **Focus:** Historical Data Continuity & Professional Lineage.
 * **Action:** Initiated a systematic audit of historical research outputs and certifications (SQL Fundamentals, Data Analytics, and Academic Milestones) for repository integration.
