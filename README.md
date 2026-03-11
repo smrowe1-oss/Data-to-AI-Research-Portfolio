@@ -1,51 +1,46 @@
-# Hi, I'm Sharon 👋
-## 👩‍🔬 Principal Researcher | PhD | Allied AI Engineer
-### *Expert in Clinical Governance, Agentic AI, and High-Stakes Implementation Science*
+# 👩‍🔬 Principal Researcher | PhD
+### *Independent Consultant in Clinical Governance & Agentic AI Orchestration*
 
-I am a **Lead Investigator** and **Data Architect** specializing in the translation of complex clinical and financial data into autonomous, ethical outcomes. I bridge the gap between **relational data architecture** and **Agentic AI synthesis**, building high-integrity foundations that power reliable, non-hallucinatory AI models.
+I am a **Senior Project Manager** and **Clinical Strategist** specializing in the bridge between academic rigor and autonomous technical systems. My career is built on a foundation of senior institutional leadership, including former roles as **Honorary Associate Professor**, **Senior Research Fellow**, and **Clinical & Academic Midwife**.
 
-> ### 🚧 Current Project Status: Research Integration Phase
-> I am currently migrating 15+ years of doctoral research history, national committee protocols, and advanced certifications into this repository. This archive is being systematically updated to reflect the convergence of Clinical Governance and Generative AI.
+
 
 ---
 
-### 🧠 My "AI-Architect" Philosophy
-My methodology centers on **Architectural Integrity**. I view Generative AI as a powerful "force multiplier" for a skilled researcher. By mastering the "First Principles" of data engineering—Normalization, Joins, and Governance—I ensure that the AI systems I develop are transparent, interpretable, and built on high-fidelity data. In high-stakes environments (PPH detection, Homicide Prediction, or Financial Trading), accuracy isn't optional—it's foundational.
+### 🧠 The "Allied AI" Philosophy
+I view Agentic AI as a "force multiplier" for high-stakes research. My methodology centers on **Architectural Integrity**—ensuring that AI systems are transparent, ethically grounded, and built on the "First Principles" of data engineering. 
+
+Whether leading **PPH (Postpartum Haemorrhage)** medical device trials or building algorithmic trading logic, I ensure that the technology serves the human expert, not the other way around.
 
 ---
 
-### 🏥 Clinical Leadership & Translation
-* **National Scientific Committee:** Reviewer for RCTs and Ethics Applications.
-* **Lead Investigator:** Directed implementation trials for non-approved medical devices (PPH).
-* **MIME Grant Recipient (Monash University):** Leading cross-faculty IT/Clinical application development.
-* **Predictive Analytics:** Research in high-sensitivity domains including Familial Homicide & End-of-Life care.
+### 🏥 Professional Lineage & Leadership
+* **Former Honorary Associate Professor & Senior Research Fellow:** Extensive history in institutional academic leadership and systematic review mastery.
+* **Senior Project Manager:** Expert in leading multi-disciplinary teams across clinical and IT faculties (Monash MIME Grants).
+* **National Scientific Committee Member:** Expert reviewer for RCTs and high-stakes Ethics applications.
+* **Clinical & Academic Midwife:** Bridging frontline healthcare experience with doctoral-level research and implementation science.
 
 ---
 
-### 🛠️ Technical & Methodological Stack
+### 🛠️ The Technical & Agentic Stack
 
 | Domain | Expert Toolset |
 | :--- | :--- |
-| **AI Orchestration** | **Claude (Agentic AI)**, Gemini, GitHub Copilot, Grok, Bayesian Logic |
-| **Clinical Data (CDM)** | **REDCap**, Qualtrics, Covidence, **EMR Integration**, Triage Systems |
-| **Quantitative Analysis** | **SPSS**, SQL (PostgreSQL/T-SQL), Tableau (Diagnostic Specialist), LabArchives |
-| **Qualitative Synthesis** | **Dedoose**, Mendeley (Systematic Review Mastery) |
-| **Financial Systems** | **Altera**, TradingCup, ACY Securities (Algorithmic Logic) |
-| **Languages & Tools** | Python (Pandas/NumPy), MS Excel (VBA/Solver), Google Workspace |
+| **Agentic AI** | **Claude (Agentic Orchestration)**, Gemini, GitHub Copilot, Grok |
+| **Clinical Data** | **REDCap**, Qualtrics, Covidence, **EMR Integration**, Triage Systems |
+| **Quantitative** | **SPSS**, SQL (T-SQL/PostgreSQL), Tableau (Diagnostic Specialist), LabArchives |
+| **Qualitative** | **Dedoose**, Mendeley (Systematic Review Mastery) |
+| **Finance & Risk** | **Altera**, TradingCup, ACY Securities (Algorithmic Data Logic) |
 
 ---
 
-### 📈 Current Initiatives
-* 🤖 **Agentic Workflows:** Utilizing **Claude** to automate Systematic Review screening and protocol drafting.
-* 🏗️ **Architecture:** Perfecting SQL normalization and composite key logic for large-scale clinical datasets.
-* 📊 **Visual Analytics:** Advanced Tableau practitioner focusing on AI-driven outlier detection.
-* 💰 **Investment Intelligence:** Implementing predictive logic for personal investment through **Altera** and **TradingCup**.
+### 💼 Independent Consulting Services
+I provide strategic partnership for organizations navigating the "last mile" of AI implementation:
+* **AI Clinical Safety Auditing:** Performing risk-benefit analyses for AI deployment in primary care.
+* **The "Technical-Clinical" Translator:** Converting complex clinical diagnostic markers into actionable technical requirements for dev teams.
+* **Agentic Research Design:** Automating the evidence synthesis lifecycle (Mendeley/Covidence) via autonomous AI agents.
 
 ---
 
-### 📓 Latest Learning Log Update
-**Log Entry 035:** Agentic AI Orchestration & Multi-Model Reasoning. Successfully integrated Claude for designing autonomous research agents to reduce human error in evidence synthesis. (See `LEARNING_LOG.md` for full history).
-
----
-### 🤝 AI-Human Orchestration
-This repository is developed through a **Principal-Agent Collaboration**. I utilize **Claude** and **Gemini** as agentic collaborators to automate scheduling, scaffold technical documentation, and optimize code architecture. This process serves as an active implementation trial for my research into **Agentic AI in Clinical Governance.**
+> ### 🤝 AI-Human Orchestration
+> This repository is a living implementation trial of my **Principal-Agent Collaboration** model. I utilize **Claude** and **Gemini** as agentic collaborators to automate scheduling and documentation, ensuring my focus remains on high-level clinical synthesis and strategic oversight.
