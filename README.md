@@ -4,6 +4,9 @@
 
 My methodology centres on Architectural Integrity. I view Generative AI as a powerful "force multiplier" for a skilled data architect. By mastering the "First Principles" of data engineering—Normalisation, Joins, and Governance— I ensure that the AI systems I develop are transparent, interpretable, and built on high-fidelity data.
 
+> ### 🚧 Current Project Status: Research Integration Phase
+> I am currently migrating 15+ years of doctoral research history, national committee protocols, and advanced certifications into this repository. This archive is being systematically updated to reflect the convergence of Clinical Governance and Generative AI.
+
 🛠️ Technical Toolkit
 
 AI: Generative AI (LLMs, Diffusion Models), Bayesian Inference.
