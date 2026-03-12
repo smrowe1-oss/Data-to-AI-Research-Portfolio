@@ -6,11 +6,10 @@ I am a **Senior Implementation Strategist** and **Project Manager** with over 20
 ---
 
 ### 🌟 High-Impact Research & Global Recognition
-**Lead Author: "Tools to Facilitate Communication During Physician-Patient Consultations in Cancer Care"** *Published in **CA: A Cancer Journal for Clinicians** (The world's highest-ranked medical journal).*
-
-* **Data Orchestration:** Directed a national multidisciplinary team to synthesize evidence across **11 systematic reviews** and **15,381 participants**.
-* **Methodological Gold Standard:** Conducted a comprehensive Umbrella Review following PRISMA, Cochrane, and AMSTAR 2 protocols—forming the logical blueprint for my current **Agentic AI Research agents**.
-* **Clinical Significance:** This work serves as a global benchmark for evidence-based communication, proving my ability to manage massive clinical datasets with 100% fidelity.
+* **World-Class Publication Record:** Consistently published in **Q1 journals**, spanning specialized qualitative methodology papers, meta-syntheses, and systematic reviews.
+* **Lead Author:** "Tools to Facilitate Communication During Physician-Patient Consultations in Cancer Care" published in ***CA: A Cancer Journal for Clinicians*** (The world's #1 ranked medical journal).
+* **Global Speaker & Presenter:** Extensive track record of delivering findings at **Global, International, and National conferences**, including the **World Cancer Congress** (Malaysia, Melbourne) and the **Behavioural Research in Cancer Control Conference**.
+* **Data Orchestration:** Directed a national team to synthesize evidence across **11 systematic reviews** and **15,381 participants**, establishing a logical blueprint for my current **Agentic AI Research agents**.
 
 
 
@@ -18,22 +17,22 @@ I am a **Senior Implementation Strategist** and **Project Manager** with over 20
 
 ### 🏥 Institutional Leadership & Foundations (Pre-2022)
 
+#### **The University of Melbourne**
+* **Medical Pedagogy & Mentorship:** Lectured and tutored **Medical Students** in **Qualitative Methodology** and Systematic Review design.
+* **Academic Governance:** **Capstone Coordinator** for research projects; Member of the **Curriculum Committee** and **Local HREC (Ethics)**.
+* **Lead Investigator (Consultancies):** Directed implementation evaluations for **Cancer Council Victoria** and **WCMICS**.
+
 #### **Monash University**
 * **Senior Project Manager (MCHRI):** Managed the operational delivery of a **$2M national research portfolio** across 5 universities.
 * **MIME (Monash Institute of Medical Engineering):** Served as **Clinical Expert** for a med-tech grant, translating clinical needs into technical requirements.
-* **School of Nursing and Midwifery:** Investigated the **fidelity and suitability** of screening tools in End-of-Life care and **PPH**.
-
-#### **The University of Melbourne**
-* **Qualitative Research Specialist (National CRE):** Evaluated **acceptability and fidelity** of digital decision-support tools.
-* **Lead Investigator (Consultancies):** Directed implementation evaluations for **Cancer Council Victoria** and **WCMICS**.
-* **Medical Pedagogy:** Lectured and mentored medical students in **Systematic Review methodology**.
+* **School of Nursing and Midwifery:** Investigated the fidelity and suitability of screening tools in **End-of-Life care** and **PPH**.
 
 ---
 
 ### 🤖 Current Focus: Agentic AI & Technical Orchestration (2022 – Present)
 * **Agentic AI Design:** Utilizing **Claude** and **Gemini** to automate the "Evidence-to-Implementation" lifecycle.
-* **Implementation Theory in AI:** Applying **Normalization Process Theory (NPT)** to ensure AI workflows are designed for clinical adoption and collective action.
-* **Technical Translation:** Converting complex clinical diagnostic markers (from PPH and Cancer studies) into technical requirements for healthcare AI.
+* **Scientific Dissemination:** Applying decades of experience in global conference presentation to ensure AI research outputs are formatted for high-impact dissemination and peer-review.
+* **Technical Translation:** Converting complex clinical diagnostic markers and communication tool logic into technical requirements for healthcare AI.
 
 ---
 
@@ -41,7 +40,7 @@ I am a **Senior Implementation Strategist** and **Project Manager** with over 20
 
 | Domain | Expert Toolset |
 | :--- | :--- |
+| **Methodologies** | **Qualitative Meta-Synthesis**, **Systematic Reviews**, **Umbrella Reviews** |
 | **Frameworks** | **MRC**, **NPT**, **PRISMA**, **AMSTAR 2**, **Health Economics** |
 | **Agentic AI** | **Claude (Orchestration)**, Gemini, GitHub Copilot |
 | **Data Engineering** | **SQL**, **Python**, **REDCap**, **Tableau**, **Dedoose** |
-| **Governance** | **HREC Ethics**, Clinical Safety Auditing, RCT Review |
