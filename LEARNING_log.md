@@ -1,6 +1,4 @@
-# 📓 AI Research & Data Engineering Logbook
 
-## 📅 March 2026
 
 # 📓 AI Research & Data Engineering Logbook
 
