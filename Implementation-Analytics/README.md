@@ -1,22 +1,24 @@
-# SQL Engineering: Relational Integrity & Schema Design
+# 📊 Implementation Analytics: Data Integrity & Schema Architecture
+### *The Technical Foundation for Reliable Clinical AI*
 
-This directory contains technical implementations of advanced relational database patterns. The primary focus of these scripts is to ensure **Data Integrity**—the essential prerequisite for any reliable AI or Machine Learning model.
+This directory contains technical implementations of advanced relational database patterns. In clinical AI, **Data Integrity** is not just a technical requirement—it is a safety requirement. Without rigorous schema design, downstream AI models risk "hallucinating" results due to data redundancy and poor relational logic.
 
-## 🏗️ Case Study: Implementing Composite Primary Keys
-**Project:** Northwind Database Optimization (Order Details)
+---
 
-### 1. The Challenge: Many-to-Many Conflict
-In the standard `Order Details` table, neither the `OrderID` nor the `ProductID` can serve as a Primary Key on its own:
-* An **OrderID** repeats because one order can contain many products.
-* A **ProductID** repeats because one product can be part of many orders.
+## 🏗️ Case Study: Architecture for Data Integrity (Northwind Optimization)
 
-Without a unique identifier, the database risks "Row Explosion" and data redundancy, which would compromise any downstream statistical analysis or AI training.
+### 1. The Challenge: Relational Conflict & "Row Explosion"
+In a standard **Order Details** junction table (often used to track medical supplies or patient prescriptions), neither the `OrderID` nor the `ProductID` can serve as a Primary Key on its own:
+* An **OrderID** repeats because one order contains many products.
+* A **ProductID** repeats because one product is part of many orders.
+
+**The Risk:** Without a unique identifier, the database allows for duplicate rows, which compromises statistical power, clinical auditing, and AI training sets.
 
 ### 2. The Solution: Composite Key Logic
-I architected a **Composite Primary Key** by combining `OrderID` and `ProductID`. 
+I architected a **Composite Primary Key** by combining `OrderID` and `ProductID`. This ensures that every entry is unique, enforcing **Referential Integrity** at the schema level.
 
-**Implementation Strategy:**
+#### **Implementation Strategy:**
 ```sql
--- Pattern: Adding a Composite Key to an existing junction table
+-- Pattern: Enforcing a Composite Key to prevent data redundancy
 ALTER TABLE [Order Details]
 ADD CONSTRAINT PK_Order_Details PRIMARY KEY (OrderID, ProductID);
