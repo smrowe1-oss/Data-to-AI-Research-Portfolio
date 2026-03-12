@@ -2,6 +2,12 @@
 
 ## 📅 March 2026
 
+#### **Log Entry 065: The Pedagogy of AI — Agentic Mentorship & Project Management**
+* **Focus:** AI-Human Collaborative Systems.
+* **Action:** Documented the collaborative process of building this portfolio as a project managed via Agentic AI.
+* **Researcher's Note:** My work here represents a shift from 'AI as a Search Tool' to 'AI as a Research Partner.' I have used this AI as a high-level study guide to translate my doctoral expertise into technical documentation. This is a learned skill in 'Prompt Engineering' and 'Context Management'—I am effectively supervising an AI agent to perform complex synthesis, mirroring the way I once supervised medical students and research assistants.
+* **Status:** ✅ Collaborative AI Skillset Integrated.
+
 #### **Log Entry 064: Agentic Orchestration — The Systematic Review Workflow**
 * **Focus:** AI-Driven Evidence Synthesis & Methodological Fidelity.
 * **Action:** Developed and documented the 'Agentic Systematic Review Workflow,' a multi-agent system designed to replicate PRISMA/AMSTAR 2 standards using Claude and Gemini.
