@@ -2,6 +2,12 @@
 
 ## 📅 March 2026
 
+#### **Log Entry 067: AI Governance — The Clinical Safety Protocol**
+* **Focus:** Clinical Ethics & Algorithmic Oversight.
+* **Action:** Drafted the 'Clinical AI Governance Protocol' (CAGP), synthesizing 20 years of HREC and Scientific Committee experience into a technical audit framework for healthcare AI.
+* **Researcher's Note:** Governance is the 'last mile' of AI safety. By applying the same rigor I used to coordinate Medical Student Capstones and HREC reviews, I am creating a system of 'Scientific Guardrails' for autonomous agents. This proves that I am not just an AI user, but an AI Auditor capable of ensuring clinical fidelity and ethical compliance.
+* **Status:** ✅ Governance Protocol Published in `/Governance`.
+
 #### **Log Entry 065: The Pedagogy of AI — Agentic Mentorship & Project Management**
 * **Focus:** AI-Human Collaborative Systems.
 * **Action:** Documented the collaborative process of building this portfolio as a project managed via Agentic AI.
