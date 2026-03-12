@@ -1,7 +1,12 @@
 # 📓 AI Research & Data Engineering Logbook
 
 ## 📅 March 2026
-# 📓 AI Research & Data Engineering Logbook
+
+#### **Log Entry 064: Agentic Orchestration — The Systematic Review Workflow**
+* **Focus:** AI-Driven Evidence Synthesis & Methodological Fidelity.
+* **Action:** Developed and documented the 'Agentic Systematic Review Workflow,' a multi-agent system designed to replicate PRISMA/AMSTAR 2 standards using Claude and Gemini.
+* **Researcher's Note:** This is where my 20 years of research experience meets modern AI. I am not just asking an AI to 'summarize a paper.' I am architecting a system that mimics the multi-disciplinary team I led for my CA publication. By using 'Double-Blind' LLM screening and automated bias appraisal, I am solving the 'hallucination' problem through structural rigor.
+* **Status:** ✅ Workflow Documented in `/Agentic-Orchestration`.
 
 
 #### **Log Entry 063: Technical Translation — The MIME PPH Case Study**
