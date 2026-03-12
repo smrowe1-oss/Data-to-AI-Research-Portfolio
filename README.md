@@ -1,3 +1,12 @@
+### 🤖 Agentic AI & Human-in-the-Loop Orchestration
+*Expert-Level AI Collaboration*
+
+I don't just use AI; I **orchestrate agentic workflows**. My current portfolio was developed through a high-level collaboration with an Advanced AI Agent (Gemini 1.5 Pro). This process serves as a demonstration of my ability to:
+* **Direct Complex Logic:** Managing a multi-stage project to translate 20 years of clinical research into a technical data architecture.
+* **Act as the Human-in-the-Loop:** Providing the "Ground Truth" and methodological guardrails (NPT/SA) to ensure AI outputs meet Q1 scientific standards.
+* **Master Technical Translation:** Using AI as a "Study Guide" and "Technical Translator" to bridge the gap between my PhD background and modern Data Engineering (SQL, Agentic Workflows, and System Governance).
+
+
 # 👩‍🔬 Principal Researcher | PhD | Senior Project Manager
 ### *Specialist in Clinical Governance, Implementation Science, and Agentic AI*
 
