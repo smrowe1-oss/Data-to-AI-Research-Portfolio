@@ -2,6 +2,18 @@
 
 # 📓 AI Research & Data Engineering Logbook
 
+#### **Log Entry 086: Repository Finalization — Structural Normalization**
+* **Focus:** Digital Asset Management & Narrative Consistency.
+* **Action:** Completed the physical migration of all SQL assets into the 'Implementation-Analytics' directory.
+* **Researcher's Note:** This is the 'Collective Action' phase of NPT in its most literal sense—organizing the tools to fit the new professional practice. By consolidating these files, I am ensuring that the 'Situational Analysis' of my portfolio by external stakeholders is clear, logical, and reflects a high-level data governance mindset.
+* **Status:** ✅ Folder Migration Complete.
+
+#### **Log Entry 085: Technical Visualization — PowerBI for Executive Governance**
+* **Focus:** Data Storytelling & Leadership Reporting.
+* **Action:** Documented the 'PowerBI Executive Dashboard' project, linking SQL data structures to RE-AIM visual metrics.
+* **Researcher's Note:** This is the 'Reflexive Monitoring' phase of NPT in action. A dashboard is the ultimate tool for 'Sense-Making' for a Hospital Board. By architecting a PowerBI view of my SQL data, I am proving I can move from 'Raw Data' to 'Strategic Insight.' This completes the 'Data-to-AI' pipeline in my portfolio.
+* **Status:** ✅ Visualization Strategy Published.
+
 #### **Log Entry 084: Repository Architecture — Full Migration to Implementation Analytics**
 * **Focus:** Data Governance & Systems Integration.
 * **Action:** Migrated the complete SQL asset library (Schema Analysis, Aggregation Scripts, and Composite Key Logic) into the 'Implementation-Analytics' directory.
